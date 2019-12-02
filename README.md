@@ -7,6 +7,6 @@
 
 #### 2. Test variable values with the Postman application. Enter the weblink: http://novindrap.pythonanywhere.com/api into the request section with the configuration changed to POST.
 
-![1.png](attachment:1.png)
+![1.png](attachment:API_Flask/1.png)
 
 #### The results will be below. Done
